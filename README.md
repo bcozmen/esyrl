@@ -41,7 +41,7 @@ Most mainstream AI models lives as a practical mathematical object, a function, 
 
 However, generally this memory space is higly structered, as in RGB encoding for images, or ASCII representation of text, or mp3 representation of a sound. Thus, the senses available to any AI model is defined by our technological recording capabilities and the capabilities of the machines they are working on, as well as senses available to humans are defined by their biological capabilities.
 
-Comparing these two domains, and coming up with arguments about which one is capable of what is a very hard task, that I have no intuition about yet. The domains I am talking about until now "ilgilendirmek" only the 1st and 2nd assumptions.
+Comparing these two domains, and coming up with arguments about which one is capable of what is a very hard task, that I have no intuition about yet. The domains I am talking about until now concerns only the 1st and 2nd assumptions.
 
 When we also consider the time and casuality part, maybe we can start to see some differences
 
