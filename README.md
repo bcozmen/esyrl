@@ -29,7 +29,7 @@ Now I will make 3 assumptions. 2 About physical domain and 1 about the time doma
   
   3 Time and causality exists, thus the ordering of events is important and effects other events only in forward time direction
 
-fundamentally, we humans can achive some kind of intelligence, even though we consist of a physically finite space. Thus, I will assume that we create a representation of real world, which is good enough to call "intelligence", and we set this also as our goal to achive with artificial kind of intelligence.
+fundamentally, we humans can achive some kind of intelligence, even though we consist of a physically finite space. Thus, I will assume that we create a representation of real world, which is good enough to call "intelligence", and we set this also as our goal to achive with artificial kind of intelligence. A very good exercise on this topic you can find in [this book](https://www.amazon.de/-/en/Case-Against-Reality-Evolution-Truth/dp/0393254690)
 
 ### A computational model of human
 
